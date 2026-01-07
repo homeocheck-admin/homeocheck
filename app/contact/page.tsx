@@ -14,7 +14,7 @@ export default function Contact() {
       </p>
 
       <p>
-        <strong>Email:</strong> support@homeocheck.in
+        <strong>Email:</strong> support@homeocheck.com
       </p>
 
       <p>
