@@ -34,7 +34,7 @@ export default function PrivacyPolicy() {
 
       <p>
         For any privacy-related queries, please contact us at
-        support@homeocheck.in.
+        support@homeocheck.com.
       </p>
     </main>
   );
